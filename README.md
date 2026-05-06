@@ -1,7 +1,9 @@
 # Практична робота: Проєктування ІС за допомогою UML
 **Студент:** Жданов С.О 
 **Група:** 3101  
-
+https://mermaid.ai/d/b08f6abd-8d89-4e4b-97f9-f82d9ac29b6d
+https://mermaid.ai/d/87ff1791-90fc-4c08-a1db-83d2040bd71f
+https://mermaid.ai/d/ec97b75d-6aa4-491a-80df-4a89353854bf
 
 ---
 
